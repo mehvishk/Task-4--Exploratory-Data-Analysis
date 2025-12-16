@@ -61,10 +61,3 @@ Dataset used: **Titanic – train.csv**
 📌 Notes
 * PDF was generated using HTML to PDF conversion due to Pandoc unavailability in Jupyter
 * This is a beginner-friendly EDA project focused on insight generation rather than modeling
-## 🙌 Conclusion
-
-This project demonstrates the complete EDA workflow — from raw data to meaningful insights — and showcases analytical thinking, visualization skills, and clear communication.
-
----
-
-⭐ If you find this project helpful, feel free to star the repository!
